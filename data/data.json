@@ -1,0 +1,78 @@
+{
+    "profile": {
+        "name": "Difatul Mu'Minah",
+        "jurusan": "Rekayasa Perangkat Lunak (RPL)",
+        "heroBio": "Dokumentasi perjalanan belajar, proyek kejuruan, dan catatan pemahaman materi kejuruan selama 3 tahun di SMK.",
+        "aboutBio": "Halo! Saya Difatul Mu'Minah, seorang siswi SMK jurusan Rekayasa Perangkat Lunak yang bersemangat tentang teknologi dan pengembangan perangkat lunak. Portofolio ini saya buat untuk mendokumentasikan hasil karya dan progres belajar saya.",
+        "photo": "assets\/hero-photo.jpg",
+        "skills": [
+            {
+                "title": "Frontend Web",
+                "desc": "HTML, CSS, JS, Tailwind"
+            },
+            {
+                "title": "Backend Basics",
+                "desc": "PHP, MySQL, REST API"
+            },
+            {
+                "title": "UI\/UX Design",
+                "desc": "Figma, Wireframing"
+            },
+            {
+                "title": "Tools & Git",
+                "desc": "Git, VS Code, Linux"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "id": 1787634036,
+            "mapel": "Pemrograman WEB",
+            "title": "Membuat PHP CRUD Native",
+            "desc": "Membuat CRUD menggunakan PHP Native",
+            "link": "https:\/\/anandasatriaa.github.io\/",
+            "docFile": null,
+            "imgFile": {
+                "name": "ezgif-frame-027.jpg",
+                "path": "uploads\/1787634036_img_ezgif-frame-027.jpg"
+            },
+            "date": "25\/08\/2026"
+        },
+        {
+            "id": 1710000001,
+            "mapel": "Pemrograman Web",
+            "title": "Website Portfolio Responsive PHP",
+            "desc": "Membuat sistem portofolio berbasis PHP dan Tailwind CSS yang mendukung pengunggahan file tugas serta jurnal catatan materi.",
+            "link": "https:\/\/github.com",
+            "docFile": null,
+            "imgFile": null,
+            "date": "25\/08\/2026"
+        },
+        {
+            "id": 1710000002,
+            "mapel": "Basis Data",
+            "title": "Rancangan ERD Perpustakaan Digital",
+            "desc": "Perancangan struktur basis data relational menggunakan MySQL, pembuatan ERD, dan skrip DDL\/DML lengkap.",
+            "link": "",
+            "docFile": null,
+            "imgFile": null,
+            "date": "20\/08\/2026"
+        }
+    ],
+    "notes": [
+        {
+            "id": 2710000001,
+            "mapel": "Basis Data",
+            "topic": "Pemahaman Query JOIN & Relasi Tabel",
+            "content": "INNER JOIN: Mengambil record yang memiliki nilai cocok di kedua tabel.\nLEFT JOIN: Mengambil semua record dari tabel kiri dan record yang cocok dari tabel kanan.",
+            "date": "23\/08\/2026"
+        },
+        {
+            "id": 2710000002,
+            "mapel": "Pemrograman Web",
+            "topic": "Arsitektur PHP Native & Handle File Upload",
+            "content": "Penggunaan $_FILES di PHP untuk memproses unggahan file, memvalidasi tipe mime, dan menyimpannya menggunakan move_uploaded_file().",
+            "date": "19\/08\/2026"
+        }
+    ]
+}
